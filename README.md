@@ -24,11 +24,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://twitter.com/mertaakdag"><img src="https://img.shields.io/badge/-mertaakdag-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mertakdag/"><img src="https://img.shields.io/badge/-mertakdag-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ooruc471@yandex.com"><img src="https://img.shields.io/badge/-akdagm128@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mmertakdag"><img src="https://img.shields.io/badge/-@mmertakdag-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://codesandbox.io/u/mertAKDAG"><img src="https://img.shields.io/badge/-@MertAKDAG-151515?style=flat&logo=CodeSandBox&logoColor=white"/></a>
+<a href="mailto:akdagm128@gmail.com"><img src="https://img.shields.io/badge/-akdagm128@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
     
