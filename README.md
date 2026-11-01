@@ -1,39 +1,28 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MertAkdag/mertakdag/main/banner.svg" alt="Mert Akdağ — Builder, Founder, Explorer" width="100%" />
-</p>
+## Hi, I'm Mert
 
-I’m **Mert Akdağ** — a founder and software engineer based in Türkiye, taking systems from raw idea to live product. I lead [**Armillis**](https://armillis.com) ([@Armillis](https://github.com/Armillis)), a creative technology and product engineering studio, guided by one principle: [*proof before claim*](https://mertakdag.com/en/philosophy/proof-before-claim/).
+I build mobile apps and SaaS products end to end: the app, the backend, the admin panel and the App Store release. I run [Armillis](https://armillis.com), a small software studio in Kahramanmaraş Teknokent, Türkiye.
 
----
+AI agents write most of my code. I spend my own time on two things: deciding what is worth building, and proving that it really works.
 
-### Shipped Products & Ventures
+**Right now:** I'm building **Armillis Flow**, a one-person app factory. It finds app categories that make money abroad but are missing in Türkiye, assembles a new iOS app from 50 tested modules, uses it on simulated iPhones and iPads to catch bugs and likely App Store rejections, writes the store page, and tracks rankings and revenue after launch. On day 14 it tells me to grow, fix or kill each app. I only make the yes/no calls.
 
-| Product | Status | What It Does |
-| --- | --- | --- |
-| [**EKLER**](https://ekler.app) | Production | Live university & campus ecosystem running across 6 end-to-end modules: Radar, Notes, Podium, Events, Campus Passport, and Savings Wallet. ([Overview →](https://mertakdag.com/en/products/ekler/)) |
-| [**Armillis**](https://armillis.com) | Studio & SaaS | Creative technology studio building vertical SaaS (POS & operational workflows), real-time AI/voice systems, and high-craft web platforms. ([@Armillis →](https://github.com/Armillis)) |
-| [**WallDiary**](https://mertakdag.com/en/products/walldiary/) | MVP Complete | AI-powered personal journal and memory space designed to organize thoughts, reflections, and daily context. |
+### Products
 
----
+| | |
+| --- | --- |
+| **[EKLER](https://ekler.app)** | Closed social network for verified university students in Türkiye: anonymous or named posts, course notes, study sessions, events, student discounts. Expo iOS app, NestJS (Fastify) API, my own Postgres, auth (Ed25519 OTP) and S3 storage. |
+| **Armillis POS** | Multi-tenant POS for cafés. The waiter takes the order on a phone, and it lands on the kitchen screen and at the till at the same time. Fastify, Postgres with row-level security, Socket.IO, Expo. Comes with a self-service QR menu (Next.js, Prisma). |
+| **Kendin Tasarla** | Real-time 3D jewelry configurator: metal, stone color and stone count. Unity (URP) for WebGL, iOS and Android. |
 
-### Open Source & R&D
+### Open source
 
-- [**armillis-tts**](https://github.com/MertAkdag/armillis-tts) — Tiny, fast, offline Turkish text-to-speech (`8.6M` parameters · `0.92%` WER on Freya-TR-Eval · `~4 ms` first-audio latency · `1,300×` real-time batched throughput on a single GPU).
-- [**@mertakdag/react-native-story-viewer**](https://github.com/MertAkdag/react-native-story-viewer) · [`npm v1.1.0`](https://www.npmjs.com/package/@mertakdag/react-native-story-viewer) — 60fps Instagram & Snapchat-style story ring tray and full-screen image/video viewer for React Native & Expo, featuring Reanimated gestures and a headless hook API.
+- **[react-native-story-viewer](https://github.com/MertAkdag/react-native-story-viewer)**: Instagram-style story tray and 60fps image/video story viewer for React Native and Expo, with Reanimated gestures and a headless hook. `npm i @mertakdag/react-native-story-viewer`
+- **Turkish TTS**: [my fork](https://github.com/MertAkdag/armillis-tts) of [ema-lightning](https://github.com/canberk7/ema-lightning) reads English words inside Turkish text the way Turkish developers say them, with an offline G2P ("React" → "reakt").
 
----
+### Stack
 
-### Engineering Focus
+TypeScript · React Native / Expo · Next.js · NestJS / Fastify · PostgreSQL · Python / PyTorch · Unity (C#)
 
-- **Web & Systems:** TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, SQLite, PostgreSQL
-- **Mobile & Interactive 3D:** React Native, Expo, Reanimated, Flutter, Three.js / WebGL, Unity (C#)
-- **AI & Voice:** PyTorch, Low-Latency Speech Synthesis (TTS), Streaming Audio Inference, Applied LLM Systems
+### Contact
 
----
-
-### Connect
-
-- **Website & Writing:** [mertakdag.com](https://mertakdag.com) ([English](https://mertakdag.com/en/))
-- **Studio:** [armillis.com](https://armillis.com)
-- **LinkedIn:** [linkedin.com/in/mertakdag](https://www.linkedin.com/in/mertakdag/)
-- **Email:** [mert@mertakdag.com](mailto:mert@mertakdag.com)
+[armillis.com](https://armillis.com) · [LinkedIn](https://www.linkedin.com/in/mertakdag/) · [mert@mertakdag.com](mailto:mert@mertakdag.com)
